@@ -1,5 +1,5 @@
 import random
-from art import logo
+from art import logo, vs
 from gamedata import data
 
 score = 0
